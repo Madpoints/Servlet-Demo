@@ -3,7 +3,7 @@
 <html>
 <body>
 
-	<c:forEach var="tempStudent" items="${student_list}">
+	<c:forEach var="tempStudent" items="${students_list}">
 	
 		${tempStudent}<br>	
 	
